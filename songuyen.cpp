@@ -10,5 +10,6 @@ int main(){
     float thuong = 1.0*a / b;
     int du = a % b;
     cout << tong << " " << hieu << " " << tich << " " << thuong << " " << du << endl;
+    cout << "Cuoi cung cung biet lam" << endl;
     return 0;
 }
