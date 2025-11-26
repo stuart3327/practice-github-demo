@@ -11,5 +11,6 @@ int main(){
     int du = a % b;
     cout << tong << " " << hieu << " " << tich << " " << thuong << " " << du << endl;
     cout << "Cuoi cung cung biet lam" << endl;
+    cout << "Djtme that" << endl;
     return 0;
 }
