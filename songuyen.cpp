@@ -11,6 +11,10 @@ int main(){
     int du = a % b;
     cout << tong << " " << hieu << " " << tich << " " << thuong << " " << du << endl;
     cout << "Cuoi cung cung biet lam" << endl;
+<<<<<<< HEAD
     cout << "Dcm d hieu me j" << endl;
+=======
+    cout << "Djtme that" << endl;
+>>>>>>> 6247ec844395bfb03955611ae2674a75e94bd455
     return 0;
 }
